@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student advised by Prof. Vsevolod Katritch and Prof. Aiichiro Nakano at the Department of Quantitative and Computational Biology, University of Southern California. Before that, I received my Bachelor of Science degree from The Chinese University of Hong Kong and the Hong Kong Univeristy of Science and Technology.
 
-My research interests mainly focus on machine learning and its application to structural and chemical biology. As an informatician, I developed machine learning models and algorithms to help structural biologists and chemists from different aspects.
+My research interests mainly focus on algorithms and machine learning models in the field of structural and chemical biology.
 
 I have been reviewers for the following academic venues:
 
