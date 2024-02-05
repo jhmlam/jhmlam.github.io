@@ -6,14 +6,16 @@ papers:
     selected: y
 
   - title: "Nimrodd: Enhancing multi-resolution geometric neural hierarchy with an expectation maximization kernel"
-    authors: "Lam JH, Sadybekov A, Ferrari T, Liu Y, Nakano A, Katritch V"
+    authors: "Lam JH, Sadybekov A, Ferrari T, Sadybekov A, Liu Y, Nakano A, Katritch V"
     venue: "In Preparation 2024"
     paper_pdf: "https://twitter.com/LamJordy"
-
+    selected: y
+    
   - title: "Structural Insights into Inverse Agonism of an Orphan Receptor"
     authors: "Barekatain M<sup>‡</sup>, Johansson L<sup>‡</sup>, Lam JH<sup>‡</sup>, Chang H, Sadybekov A, Han GW, Russo J, Bliesath J, Brice N, Carlton M, Saikatendu K, Murphy S, Monenschein H, Schiffer H, Popov P, Lutomski C, Robinson CV, Liu ZJ, Hua T, Katritch V, Cherezov V"
-    venue: "Submitted 2024. In Review."
+    venue: "In review 2024."
     paper_pdf: "https://twitter.com/LamJordy"
+    selected: y
 
   - title: "Constitutive activation mechanism of a class C GPCR"
     authors: "Shin J, Park J, Jeong J, Lam JH, Qiu X, Wu D, Kim K, Lee J, Robinson CV, Hyun J, Katritch V, Kim KP, Cho Y"
@@ -31,14 +33,18 @@ papers:
     paper_pdf: "https://doi.org/10.1038/s41586-023-06030-7"
 
   - title: "Structural details of a Class B GPCR-arrestin complex revealed by genetically encoded crosslinkers in living cells"
-    authors: "Aydin Y, Böttke T, Lam JH, Ernicke S, Fortmann A, Tretbar M, Zarzycka B, Gurevich VV, Katritch V, Coin I"
+    authors: "Aydin Y<sup>‡</sup>, Böttke T<sup>‡</sup>, Lam JH<sup>‡</sup>, Ernicke S, Fortmann A, Tretbar M, Zarzycka B, Gurevich VV, Katritch V, Coin I"
     venue: "Nature Communications 2023"
     paper_pdf: "https://doi.org/10.1038/s41467-023-36797-2"
+    selected: y
+
 
   - title: "Structural basis of GABA reuptake inhibition"
     authors: "Motiwala Z, Aduri NG, Shaye H, Han GW, Lam JH, Katritch V, Cherezov V, Gati C"
     venue: "Nature 2022"
     paper_pdf: "https://doi.org/10.1038/s41586-022-04814-x"
+
+
 
   - title: "Structure of the full-length human Pannexin1 channel and insights into its role in pyroptosis"
     authors: "Zhang S, Yuan B, Lam JH, Zhou J, Zhou X, Ramos-Mandujano G, Tian X, Liu Y, Han R, Li Y, Gao X, Li M, Yang M"
