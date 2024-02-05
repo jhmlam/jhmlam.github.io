@@ -1,0 +1,31 @@
+experiences:
+
+- place: "University of Southern California (USC)"
+  time: "2019 - now"
+  title: "Ph.D. Candidate"
+  subtitle: "Computational Biology and Bioinformatics"
+  category: "work"
+
+- place: "King Abdullah University of Science and Technology (KAUST)"
+  time: "2018"
+  title: "Research Associate"
+  subtitle: "Under Prof. Xin Gao"
+  category: "work"
+
+- place: "Hong Kong University of Science and Technology (HKUST)"
+  time: "2017"
+  title: "M.Phil."
+  subtitle: "Department of Chemistry"
+  category: "school"
+
+- place: "Institut Català d'Investigació Química"
+  time: "2016"
+  title: "Summer Intern"
+  subtitle: "Under Prof. Feliu Maseras"
+  category: "work"
+
+- place: "The Chinese University of Hong Kong (CUHK)"
+  time: "2015"
+  title: "B.Sc. (Hons)"
+  subtitle: "Department of Chemistry"
+  category: "school"

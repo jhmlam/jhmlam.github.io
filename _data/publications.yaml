@@ -1,0 +1,60 @@
+papers:
+  - title: "Scalable anisotropic vibrations of megascale macromolecules"
+    authors: "Lam JH, Nakano A, Katritch V"
+    venue: "Nature Communications. 2024. In Review, Revised."
+    paper_pdf: "/path/to/your/pdf/file.pdf"
+
+  - title: "Nimrodd: Enhancing multi-resolution geometric neural hierarchy with an expectation maximization kernel"
+    authors: "Lam JH, Ferrari T, Liu Y, Nakano A, Katritch V"
+    venue: "In Preparation 2024"
+    paper_pdf: "/path/to/your/pdf/file.pdf"
+
+  - title: "Structural Insights into Inverse Agonism of an Orphan Receptor"
+    authors: "Barekatain M, Johansson L, Lam JH, Chang H, Sadybekov A, Han GW, Russo J, Bliesath J, Brice N, Carlton M, Saikatendu K, Murphy S, Monenschein H, Schiffer H, Popov P, Lutomski C, Robinson CV, Liu ZJ, Hua T, Katritch V, Cherezov V"
+    venue: "Submitted 2024. In Review."
+    paper_pdf: "/path/to/your/pdf/file.pdf"
+
+  - title: "Constitutive activation mechanism of a class C GPCR"
+    authors: "Shin J, Park J, Jeong J, Lam JH, Qiu X, Wu D, Kim K, Lee J, Robinson CV, Hyun J, Katritch V, Kim KP, Cho Y"
+    venue: "Nature Structural & Molecular Biology. 2024. In Press."
+    paper_pdf: "/path/to/your/pdf/file.pdf"
+
+  - title: "Structure of the dopamine D3 receptor bound to a bitopic agonist reveals a new specificity site in an expanded allosteric pocket"
+    authors: "Arroyo-Urea S, Nazarova AL, Carrión-Antolí A, Bonifazi A, Battiti FO, Lam JH, Newman AH, Katritch V, García-Nafría J"
+    venue: "Nature Communications. 2024. In Review."
+    paper_pdf: "/path/to/your/pdf/file.pdf"
+
+  - title: "Ligand and G-protein selectivity in the κ-opioid receptor"
+    authors: "Han J, Zhang J, Nazarova AL, Bernhard SM, Krumm BE, Zhao L, Lam JH, Rangari VA, Majumdar S, Nichols DE, Katritch V, Yuan P, Fay JF, Che T"
+    venue: "Nature 2023"
+    paper_pdf: "https://doi.org/10.1038/s41586-023-06030-7"
+
+  - title: "Structural details of a Class B GPCR-arrestin complex revealed by genetically encoded crosslinkers in living cells"
+    authors: "Aydin Y, Böttke T, Lam JH, Ernicke S, Fortmann A, Tretbar M, Zarzycka B, Gurevich VV, Katritch V, Coin I"
+    venue: "Nature Communications 2023"
+    paper_pdf: "https://doi.org/10.1038/s41467-023-36797-2"
+
+  - title: "Structural basis of GABA reuptake inhibition"
+    authors: "Motiwala Z, Aduri NG, Shaye H, Han GW, Lam JH, Katritch V, Cherezov V, Gati C"
+    venue: "Nature 2022"
+    paper_pdf: "https://doi.org/10.1038/s41586-022-04814-x"
+
+  - title: "Structure of the full-length human Pannexin1 channel and insights into its role in pyroptosis"
+    authors: "Zhang S, Yuan B, Lam JH, Zhou J, Zhou X, Ramos-Mandujano G, Tian X, Liu Y, Han R, Li Y, Gao X, Li M, Yang M"
+    venue: "Cell Discovery 2021"
+    paper_pdf: "https://doi.org/10.1038/s41421-021-00259-0"
+
+  - title: "Structural basis of the activation of a metabotropic GABA receptor"
+    authors: "Shaye H, Ishchenko A, Lam JH, Han GW, Xue L, Rondard P, Pin JP, Katritch V, Gati C, Cherezov V"
+    venue: "Nature 2020"
+    paper_pdf: "https://doi.org/10.1038/s41586-020-2408-4"
+
+  - title: "Self-assembling tetrameric peptides allow in situ 3D bioprinting under physiological conditions"
+    authors: "Rauf S, Susapto HH, Kahin K, Alshehri S, Abdelrahman S, Lam JH, Asad S, Jadhav S, Sundaramurthi D, Gao X, Hauser CAE"
+    venue: "Journal of Materials Chemistry B 2019"
+    paper_pdf: "https://doi.org/10.1039/d0tb02424d"
+
+  - title: "A deep learning framework to predict binding preference of RNA constituents on protein surface"
+    authors: "Lam JH, Li Y, Zhu L, Umarov R, Jiang H, Héliou A, Sheong FK, Liu T, Long Y, Li Y, Fang L, Altman RB, Chen W, Huang X, Gao X"
+    venue: "Nature Communications 2019"
+    paper_pdf: "https://doi.org/10.1038/s41467-019-12920-0"
