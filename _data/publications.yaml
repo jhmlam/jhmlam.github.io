@@ -3,6 +3,7 @@ papers:
     authors: "Lam JH, Nakano A, Katritch V"
     venue: "Nature Communications. 2024. In Review, Revised."
     paper_pdf: "https://twitter.com/LamJordy"
+    selected: y
 
   - title: "Nimrodd: Enhancing multi-resolution geometric neural hierarchy with an expectation maximization kernel"
     authors: "Lam JH, Ferrari T, Liu Y, Nakano A, Katritch V"
