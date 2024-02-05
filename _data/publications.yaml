@@ -6,12 +6,12 @@ papers:
     selected: y
 
   - title: "Nimrodd: Enhancing multi-resolution geometric neural hierarchy with an expectation maximization kernel"
-    authors: "Lam JH, Ferrari T, Liu Y, Nakano A, Katritch V"
+    authors: "Lam JH, Sadybekov A, Ferrari T, Liu Y, Nakano A, Katritch V"
     venue: "In Preparation 2024"
     paper_pdf: "https://twitter.com/LamJordy"
 
   - title: "Structural Insights into Inverse Agonism of an Orphan Receptor"
-    authors: "Barekatain M, Johansson L, Lam JH, Chang H, Sadybekov A, Han GW, Russo J, Bliesath J, Brice N, Carlton M, Saikatendu K, Murphy S, Monenschein H, Schiffer H, Popov P, Lutomski C, Robinson CV, Liu ZJ, Hua T, Katritch V, Cherezov V"
+    authors: "Barekatain M<sup>‡</sup>, Johansson L<sup>‡</sup>, Lam JH<sup>‡</sup>, Chang H, Sadybekov A, Han GW, Russo J, Bliesath J, Brice N, Carlton M, Saikatendu K, Murphy S, Monenschein H, Schiffer H, Popov P, Lutomski C, Robinson CV, Liu ZJ, Hua T, Katritch V, Cherezov V"
     venue: "Submitted 2024. In Review."
     paper_pdf: "https://twitter.com/LamJordy"
 
