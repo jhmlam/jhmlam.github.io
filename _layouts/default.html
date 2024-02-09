@@ -169,24 +169,35 @@
 
     document.getElementById('toggleFloatersBtn').addEventListener('click', function() {
     const button = document.getElementById('toggleFloatersBtn');
-    const body = document.body; // Or any specific element you want to apply the blur to
+    const canvas = document.getElementById('floaterCanvas');
+    const body = document.body; // Or the specific element you want to apply the blur to
 
-    if (viewState === 0) { // Normal to Floaters
-        // Activate floaters here
-        button.innerText = "Floaters + Myopia!";
-        viewState = 1;
-    } else if (viewState === 1) { // Floaters to Floaters + Myopia (Blur)
-        // Activate blur here on top of floaters
-        body.classList.add("blur-effect"); // Ensure this class applies a blur in your CSS
-        button.innerText = "Return Normal Vision";
-        viewState = 2;
-    } else { // Return to Normal
-        // Deactivate floaters and blur
-        body.classList.remove("blur-effect");
-        button.innerText = "My View of the World (with Floaters!)";
-        viewState = 0;
-    }
+    switch (viewState) {
+        case 0: // Normal to Floaters
+            canvas.style.display = 'block'; // Show the floaters
+            drawFloaters(); // Start drawing floaters
+            button.innerText = "Floaters + Myopia!";
+            body.classList.remove("blur-effect"); // Ensure no blur is applied
+            viewState = 1;
+            break;
+        case 1: // Floaters to Floaters + Myopia (Blur)
+            body.classList.add("blur-effect"); // Apply blur effect
+            button.innerText = "Return Normal Vision";
+            viewState = 2;
+            break;
+        case 2: // Return to Normal
+            canvas.style.display = 'none'; // Hide the floaters
+            if (animationFrameId) {
+                cancelAnimationFrame(animationFrameId); // Stop the floater animation
+                ctx.clearRect(0, 0, canvas.width, canvas.height); // Clear the canvas
+            }
+            body.classList.remove("blur-effect"); // Remove blur effect
+            button.innerText = "My View of the World (with Floaters!)";
+            viewState = 0;
+            break;
+      }
     });
+
 
     const canvas = document.getElementById('floaterCanvas');
     const ctx = canvas.getContext('2d');
