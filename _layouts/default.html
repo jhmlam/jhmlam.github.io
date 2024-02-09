@@ -59,6 +59,16 @@
   <link rel="icon" type="image/png" href={{ "/libs/icon.png" | prepend: site.baseurl }}>
   <link rel="shortcut icon" type="image/png" href={{ "/libs/icon.png" | prepend: site.baseurl }}>
 
+
+
+
+  <style>
+    /* CSS for blur effect */
+    .blur-effect {
+        filter: blur(2px);
+    }
+  </style>
+
 </head>
 <body>
 
@@ -154,6 +164,39 @@
 
   <!-- Floater Script with Toggle Feature -->
   <script>
+
+    let viewState = 0; // 0: normal, 1: floaters, 2: floaters + myopia
+
+    document.getElementById('toggleFloatersBtn').addEventListener('click', function() {
+        const button = document.getElementById('toggleFloatersBtn');
+        const body = document.body; // Or any specific element you want to apply the blur to
+
+        switch (viewState) {
+            case 0: // Normal to Floaters
+                canvas.style.display = 'block';
+                drawFloaters();
+                button.innerText = "Floaters + Myopia!";
+                body.classList.remove("blur-effect"); // Make sure this class is defined in your CSS
+                viewState = 1;
+                break;
+            case 1: // Floaters to Floaters + Myopia (Blur)
+                button.innerText = "Normal Vision";
+                body.classList.add("blur-effect"); // CSS class that applies the blur
+                viewState = 2;
+                break;
+            case 2: // Floaters + Myopia to Normal
+                canvas.style.display = 'none';
+                if (animationFrameId) {
+                    cancelAnimationFrame(animationFrameId);
+                    ctx.clearRect(0, 0, canvas.width, canvas.height);
+                }
+                button.innerText = "My View of the World (with Floaters!)";
+                body.classList.remove("blur-effect");
+                viewState = 0;
+                break;
+        }
+    });
+
     const canvas = document.getElementById('floaterCanvas');
     const ctx = canvas.getContext('2d');
     let animationFrameId = null;
