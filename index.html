@@ -85,7 +85,7 @@ title: Home
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+              <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
             {% endif %}
 
             {% if paper.slides %}
