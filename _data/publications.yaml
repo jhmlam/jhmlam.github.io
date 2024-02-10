@@ -11,7 +11,7 @@ papers:
     paper_pdf: "https://twitter.com/LamJordy"
     selected: y
     
-  - title: "Structural Insights into Inverse Agonism of an Orphan Receptor"
+  - title: "Structural insights into inverse agonism of an orphan receptor"
     authors: "Barekatain M<sup>‡</sup>, Johansson L<sup>‡</sup>, Lam JH<sup>‡</sup>, Chang H, Sadybekov A, Han GW, Russo J, Bliesath J, Brice N, Carlton M, Saikatendu K, Murphy S, Monenschein H, Schiffer H, Popov P, Lutomski C, Robinson CV, Liu ZJ, Hua T, Katritch V, Cherezov V"
     venue: "In Review 2024."
     paper_pdf: "https://twitter.com/LamJordy"
@@ -32,7 +32,7 @@ papers:
     venue: "Nature 2023"
     paper_pdf: "https://doi.org/10.1038/s41586-023-06030-7"
 
-  - title: "Structural details of a Class B GPCR-arrestin complex revealed by genetically encoded crosslinkers in living cells"
+  - title: "Structural details of a class B GPCR-arrestin complex revealed by genetically encoded crosslinkers in living cells"
     authors: "Aydin Y<sup>‡</sup>, Böttke T<sup>‡</sup>, Lam JH<sup>‡</sup>, Ernicke S, Fortmann A, Tretbar M, Zarzycka B, Gurevich VV, Katritch V, Coin I"
     venue: "Nature Communications 2023"
     paper_pdf: "https://doi.org/10.1038/s41467-023-36797-2"
