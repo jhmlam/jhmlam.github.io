@@ -1,7 +1,7 @@
 papers:
   - title: "Scalable anisotropic vibrations of megascale macromolecules"
     authors: "Lam JH, Nakano A, Katritch V"
-    venue: "Nature Communications. 2024. In Review, Revised."
+    venue: "Nature Communications. 2024. Accepted."
     paper_pdf: "https://twitter.com/LamJordy"
     selected: y
 
@@ -13,14 +13,14 @@ papers:
     
   - title: "Structural Insights into Inverse Agonism of an Orphan Receptor"
     authors: "Barekatain M<sup>‡</sup>, Johansson L<sup>‡</sup>, Lam JH<sup>‡</sup>, Chang H, Sadybekov A, Han GW, Russo J, Bliesath J, Brice N, Carlton M, Saikatendu K, Murphy S, Monenschein H, Schiffer H, Popov P, Lutomski C, Robinson CV, Liu ZJ, Hua T, Katritch V, Cherezov V"
-    venue: "In review 2024."
+    venue: "In Review 2024."
     paper_pdf: "https://twitter.com/LamJordy"
     selected: y
 
   - title: "Constitutive activation mechanism of a class C GPCR"
     authors: "Shin J, Park J, Jeong J, Lam JH, Qiu X, Wu D, Kim K, Lee J, Robinson CV, Hyun J, Katritch V, Kim KP, Cho Y"
-    venue: "Nature Structural & Molecular Biology. 2024. In Press."
-    paper_pdf: "https://twitter.com/LamJordy"
+    venue: "Nature Structural & Molecular Biology. 2024."
+    paper_pdf: "https://doi.org/10.1038/s41594-024-01224-7"
 
   - title: "Structure of the dopamine D3 receptor bound to a bitopic agonist reveals a new specificity site in an expanded allosteric pocket"
     authors: "Arroyo-Urea S, Nazarova AL, Carrión-Antolí A, Bonifazi A, Battiti FO, Lam JH, Newman AH, Katritch V, García-Nafría J"
