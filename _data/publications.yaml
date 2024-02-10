@@ -4,6 +4,7 @@ papers:
     venue: "Nature Communications. 2024. Accepted."
     paper_pdf: "https://twitter.com/LamJordy"
     selected: y
+    code: "https://github.com/jhmlam/Inching"
 
   - title: "Nimrodd: Enhancing multi-resolution geometric neural hierarchy with an expectation maximization kernel"
     authors: "Lam JH, Sadybekov A, Ferrari T, Sadybekov A, Liu Y, Nakano A, Katritch V"
@@ -66,3 +67,4 @@ papers:
     venue: "Nature Communications 2019"
     paper_pdf: "https://doi.org/10.1038/s41467-019-12920-0"
     selected: y
+    code: "https://github.com/jhmlam/NucleicNet"
