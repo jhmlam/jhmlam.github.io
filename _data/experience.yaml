@@ -2,26 +2,26 @@ experiences:
 
 - place: "University of Southern California (USC)"
   time: "2019 - now"
-  title: "Ph.D. Candidate"
-  subtitle: "Computational Biology and Bioinformatics"
+  title: "Ph.D. Candidate, Bioinformatics"
+  subtitle: "With Prof. Aiichiro Nakano and Prof. Vsevolod Katritch"
   category: "work"
 
 - place: "King Abdullah University of Science and Technology (KAUST)"
   time: "2018"
   title: "Research Associate"
-  subtitle: "Under Prof. Xin Gao"
+  subtitle: "With Prof. Xin Gao"
   category: "work"
 
 - place: "Hong Kong University of Science and Technology (HKUST)"
   time: "2017"
-  title: "M.Phil."
-  subtitle: "Department of Chemistry"
+  title: "M.Phil., Chemistry"
+  subtitle: "With Prof. Xuhui Huang"
   category: "school"
 
 - place: "Institut Català d'Investigació Química"
   time: "2016"
   title: "Summer Intern"
-  subtitle: "Under Prof. Feliu Maseras"
+  subtitle: "With Prof. Feliu Maseras"
   category: "work"
 
 - place: "The Chinese University of Hong Kong (CUHK)"
