@@ -1,8 +1,8 @@
 papers:
   - title: "Scalable anisotropic vibrations of megascale macromolecules"
     authors: "Lam JH, Nakano A, Katritch V"
-    venue: "Nature Communications. 2024. Accepted."
-    paper_pdf: "https://twitter.com/LamJordy"
+    venue: "Nature Communications. 2024."
+    paper_pdf: "https://doi.org/10.1038/s41467-024-47685-8"
     selected: y
     code: "https://github.com/jhmlam/Inching"
 
