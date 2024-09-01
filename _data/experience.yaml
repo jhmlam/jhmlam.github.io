@@ -1,6 +1,12 @@
 experiences:
 
 - place: "University of Southern California (USC)"
+  time: "2024 - present"
+  title: "Croucher Foundation Postdoctoral Fellow"
+  subtitle: "With Prof. Vsevolod Katritch"
+  category: "work"
+
+- place: "University of Southern California (USC)"
   time: "2019 - 2024"
   title: "Ph.D. in Computational Biology and Bioinformatics"
   subtitle: "With Prof. Aiichiro Nakano and Prof. Vsevolod Katritch"
