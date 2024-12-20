@@ -5,17 +5,11 @@ papers:
     paper_pdf: "https://doi.org/10.1038/s41467-024-47685-8"
     selected: y
     code: "https://github.com/jhmlam/Inching"
-
-  - title: "Nimrodd: Enhancing multi-resolution geometric neural hierarchy with an expectation maximization kernel"
-    authors: "Lam JH, Sadybekov A, Ferrari T, Sadybekov A, Liu Y, Nakano A, Katritch V"
-    venue: "In Preparation 2024"
-    paper_pdf: "https://twitter.com/LamJordy"
-    selected: y
     
   - title: "Structural insights into inverse agonism of an orphan receptor"
     authors: "Barekatain M<sup>‡</sup>, Johansson L<sup>‡</sup>, Lam JH<sup>‡</sup>, Chang H, Sadybekov A, Han GW, Russo J, Bliesath J, Brice N, Carlton M, Saikatendu K, Murphy S, Monenschein H, Schiffer H, Popov P, Lutomski C, Robinson CV, Liu ZJ, Hua T, Katritch V, Cherezov V"
-    venue: "In Review 2024."
-    paper_pdf: "https://twitter.com/LamJordy"
+    venue: "Science Signaling 2024."
+    paper_pdf: "https://doi.org/10.1126/scisignal.ado8741"
     selected: y
 
   - title: "Constitutive activation mechanism of a class C GPCR"
