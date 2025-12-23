@@ -151,6 +151,83 @@
     Technical: 4
     Canonical: 5
     Exercises: 4
+    
+- title: "Basic Principles of Drug Discovery and Development"
+  author: "Benjamin E. Blass"
+  category: education
+  cover: "2021_Blass_BasicPrinciplesOfDrugDiscoveryAndDevelopment.jpg"
+  url: "/books/basic-principles-of-drug-discovery-and-development/"
+  blurb: "FDA pipeline."
+  ratings:
+    Technical: 3
+    Canonical: 4
+    Exercises: 1
+
+- title: "Lehninger Principles of Biochemistry"
+  author: "David L. Nelson; Michael M. Cox; Aaron A. Hoskins"
+  category: education
+  cover: "2021_Nelson_LehningerPrinciplesOfBiochemistry.jpg"
+  url: "/books/lehninger-principles-of-biochemistry/"
+  blurb: "Biochem Intro."
+  ratings:
+    Technical: 4
+    Canonical: 5
+    Exercises: 4
+- title: "Biochemistry: The Chemical Reactions of Living Cells"
+  author: "David E. Metzler"
+  category: education
+  cover: "2001_Metzler_BiochemistryTheChemicalReactionsOfLivingCells.jpg"
+  url: "/books/metzler-biochemistry/"
+  blurb: "Comprehensive reference on the chemical basis of life: cellular structures, the forces that stabilize them, and the reactions enabling recognition, signaling, and movement."
+  ratings:
+    Technical: 4
+    Canonical: 4
+    Exercises: 0
+
+- title: "Introduction to Algorithms"
+  author: "Thomas H. Cormen; Charles E. Leiserson; Ronald L. Rivest; Clifford Stein"
+  category: education
+  cover: "2022_Cormen_IntroductionToAlgorithms.jpg"
+  url: "/books/introduction-to-algorithms/"
+  blurb: "The classic algorithms text combining rigor and breadth, with self-contained chapters and pseudocode covering a wide range of algorithm design and analysis."
+  ratings:
+    Technical: 4
+    Canonical: 5
+    Exercises: 2
+
+
+- title: "An Introduction to Medicinal Chemistry"
+  author: "Graham L. Patrick"
+  category: education
+  cover: "2023_Patrick_AnIntroductionToMedicinalChemistry.jpg"
+  url: "/books/an-introduction-to-medicinal-chemistry/"
+  blurb: "Med Chem Intro."
+  ratings:
+    Technical: 3
+    Canonical: 4
+    Exercises: 2
+
+- title: "The Molecules of Life: Physical and Chemical Principles"
+  author: "John Kuriyan; Boyana Konforti; David Wemmer"
+  category: education
+  cover: "2012_Kuriyan_TheMoleculesOfLife.jpg"
+  url: "/books/the-molecules-of-life/"
+  blurb: "Biochem to Biophysics Intro"
+  ratings:
+    Technical: 4
+    Canonical: 4
+    Exercises: 2
+
+- title: "Statistical Mechanics: Theory and Molecular Simulation"
+  author: "Mark E. Tuckerman"
+  category: education
+  cover: "2010_Tuckerman_StatisticalMechanicsTheoryAndMolecularSimulation.jpg"
+  url: "/books/tuckerman-statistical-mechanics/"
+  blurb: "StatMech-Algorithm Relation"
+  ratings:
+    Technical: 5
+    Canonical: 4
+    Exercises: 2
 
 
 - title: "How to solve it?"
