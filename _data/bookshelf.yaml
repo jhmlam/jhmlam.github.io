@@ -1,10 +1,10 @@
 # category should be exactly: education or nonfiction
-- title: "The Logic of Chemical Synthesis"
-  author: "E. J. Corey"
+- title: "Molecular Modelling Principles and Applications"
+  author: "Andrew R. Leach"
   category: education
   cover: "1997_Leach_MolecularModelling.jpg"
   url: "/books/the-logic-of-chemical-synthesis/"
-  blurb: "Retrosynthesis, retrons, transforms, convergent planning."
+  blurb: "Basic Computational Chemistry/Cheminformatics"
 
 - title: "Surely You’re Joking, Mr. Feynman!"
   author: "Richard P. Feynman"
