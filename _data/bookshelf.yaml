@@ -5,6 +5,10 @@
   cover: "1997_Leach_MolecularModelling.jpg"
   url: "/books/the-logic-of-chemical-synthesis/"
   blurb: "Basic Computational Chemistry/Cheminformatics"
+  ratings:
+    Technical: 1
+    Canonical: 5
+    Exercises: 0
 
 - title: "Surely You’re Joking, Mr. Feynman!"
   author: "Richard P. Feynman"
@@ -12,3 +16,8 @@
   cover: "feynman-surely.jpg"
   url: "/books/surely-youre-joking/"
   blurb: "Science, curiosity, and mischief."
+  ratings:
+    Technical: 1
+    Canonical: 5
+    Exercises: 0
+
