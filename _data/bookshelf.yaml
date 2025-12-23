@@ -15,7 +15,7 @@
   category: education
   cover: "2017_Tildesley_ComputerSimulationofLiquids.jpg"
   url: "/books/computer-simulation-of-liquids/"
-  blurb: "Foundations and best practices for molecular simulation of liquids."
+  blurb: "Fortran/Particle Simulation"
   ratings:
     Technical: 4
     Canonical: 5
@@ -26,7 +26,7 @@
   category: education
   cover: "1997_McQuarrie_PhysicalChemistryAMolecularApproach.jpg"
   url: "/books/physical-chemistry-a-molecular-approach/"
-  blurb: "Builds physical chemistry from atoms to many-molecule systems; quantum first."
+  blurb: "Chemical Physics Intro"
   ratings:
     Technical: 4
     Canonical: 5
@@ -37,7 +37,7 @@
   category: education
   cover: "2000_McQuarrie_StatisticalMechanics.jpg"
   url: "/books/mcquarrie-statistical-mechanics/"
-  blurb: "Intro to ensembles, partition functions, and classical/quantum foundations."
+  blurb: "Statistical Mechanics Intro"
   ratings:
     Technical: 4
     Canonical: 5
@@ -48,7 +48,7 @@
   category: education
   cover: "2008_McQuarrie_QuantumChemistry.jpg"
   url: "/books/mcquarrie-quantum-chemistry/"
-  blurb: "A full, chemistry-focused introduction to quantum mechanics and applications."
+  blurb: "Quantum Chemistry Intro"
   ratings:
     Technical: 4
     Canonical: 5
@@ -59,11 +59,11 @@
   category: education
   cover: "2002_Casella_StatisticalInference.jpg"
   url: "/books/casella-berger-statistical-inference/"
-  blurb: "Core theory of estimation and testing for a rigorous mathematical statistics sequence."
+  blurb: "Random Variables, Estiamtes, Bayes, "
   ratings:
     Technical: 4
     Canonical: 5
-    Exercises: 3
+    Exercises: 5
 
 - title: "Deep Learning"
   author: "Ian Goodfellow; Yoshua Bengio; Aaron Courville"
@@ -72,7 +72,7 @@
   url: "/books/goodfellow-deep-learning/"
   blurb: "Comprehensive deep learning text: math background, methods, applications, and research topics."
   ratings:
-    Technical: 3
+    Technical: 2
     Canonical: 5
     Exercises: 1
 
@@ -85,7 +85,7 @@
   ratings:
     Technical: 5
     Canonical: 5
-    Exercises: 1
+    Exercises: 3
 
 - title: "Numerical Methods for Large Eigenvalue Problems, Revised Edition"
   author: "Yousef Saad"
@@ -96,7 +96,7 @@
   ratings:
     Technical: 5
     Canonical: 5
-    Exercises: 0
+    Exercises: 3
 
 - title: "Numerical Recipes in C++: The Art of Scientific Computing"
   author: "William H. Press; Saul A. Teukolsky; William T. Vetterling; Brian P. Flannery"
@@ -107,7 +107,7 @@
   ratings:
     Technical: 3
     Canonical: 4
-    Exercises: 0
+    Exercises: 2
 
 
 - title: "Surely You’re Joking, Mr. Feynman!"
