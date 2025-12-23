@@ -81,18 +81,18 @@
   category: education
   cover: "2003_Saad_IterativeMethodsforSparseLinearSystems.jpg"
   url: "/books/saad-iterative-methods-sparse-linear-systems/"
-  blurb: "Practical Krylov/iterative solvers for large sparse linear systems; updated second edition."
+  blurb: "Iterative Solvers / Sparsity Tricks"
   ratings:
     Technical: 5
     Canonical: 5
     Exercises: 3
 
-- title: "Numerical Methods for Large Eigenvalue Problems, Revised Edition"
+- title: "Numerical Methods for Large Eigenvalue Problems"
   author: "Yousef Saad"
   category: education
   cover: "2011_Saad_NumericalMethodsforLargeEigenvalueProblems.jpg"
   url: "/books/saad-large-eigenvalue-problems/"
-  blurb: "Eigenvalues/eigenvectors of large sparse matrices; Krylov methods, perturbation, and error analysis."
+  blurb: "Iterative Solvers / Perturbation / Error Analysis / Connection to Physics"
   ratings:
     Technical: 5
     Canonical: 5
@@ -103,19 +103,19 @@
   category: education
   cover: "2002_Press_NumericalRecipesinCpp.jpg"
   url: "/books/numerical-recipes-in-cpp/"
-  blurb: "Wide-ranging numerical/scientific computing algorithms with C++ implementations and explanatory text."
+  blurb: "Scientific Computing Intro"
   ratings:
     Technical: 3
     Canonical: 4
     Exercises: 2
 
 
-- title: "Surely You’re Joking, Mr. Feynman!"
-  author: "Richard P. Feynman"
+- title: "How to solve it?"
+  author: "G Polya"
   category: nonfiction
   cover: "feynman-surely.jpg"
   url: "/books/surely-youre-joking/"
-  blurb: "Science, curiosity, and mischief."
+  blurb: "Dialogues, Mentorship, Thinking"
   ratings:
     Technical: 1
     Canonical: 5
