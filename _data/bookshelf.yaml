@@ -108,6 +108,49 @@
     Technical: 3
     Canonical: 4
     Exercises: 2
+- title: "Advanced Engineering Mathematics"
+  author: "Erwin Kreyszig"
+  category: education
+  cover: "2011_Kreyszig_AdvancedEngineeringMathematics.jpg"
+  url: "/books/kreyszig-advanced-engineering-mathematics/"
+  blurb: "ODE-PDE-LinAlg Relation"
+  ratings:
+    Technical: 3
+    Canonical: 5
+    Exercises: 4
+
+- title: "Applied Numerical Linear Algebra"
+  author: "James W. Demmel"
+  category: education
+  cover: "1997_Demmel_AppliedNumericalLinearAlgebra.jpg"
+  url: "/books/demmel-applied-numerical-linear-algebra/"
+  blurb: "NLA Intro"
+  ratings:
+    Technical: 5
+    Canonical: 5
+    Exercises: 2
+
+- title: "Introductory Mathematical Statistics"
+  author: "Erwin Kreyszig"
+  category: education
+  cover: "1970_Kreyszig_IntroductoryMathematicalStatisticsPrinciplesandMethods.jpg"
+  url: "/books/kreyszig-introductory-mathematical-statistics/"
+  blurb: "Practical Statistics"
+  ratings:
+    Technical: 3
+    Canonical: 4
+    Exercises: 3
+
+- title: "Mathematical Methods for Physicists"
+  author: "George B. Arfken; Hans J. Weber; Frank E. Harris"
+  category: education
+  cover: "2012_Arfken_MathematicalMethodsforPhysicistsAComprehensiveGuide.jpg"
+  url: "/books/arfken-mathematical-methods-for-physicists/"
+  blurb: "Bible"
+  ratings:
+    Technical: 4
+    Canonical: 5
+    Exercises: 4
 
 
 - title: "How to solve it?"
