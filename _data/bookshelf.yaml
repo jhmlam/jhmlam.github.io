@@ -1,0 +1,14 @@
+# category should be exactly: education or nonfiction
+- title: "The Logic of Chemical Synthesis"
+  author: "E. J. Corey"
+  category: education
+  cover: "corey-logic.jpg"
+  url: "/books/the-logic-of-chemical-synthesis/"
+  blurb: "Retrosynthesis, retrons, transforms, convergent planning."
+
+- title: "Surely You’re Joking, Mr. Feynman!"
+  author: "Richard P. Feynman"
+  category: nonfiction
+  cover: "feynman-surely.jpg"
+  url: "/books/surely-youre-joking/"
+  blurb: "Science, curiosity, and mischief."
