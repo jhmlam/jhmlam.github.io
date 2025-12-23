@@ -36,6 +36,12 @@ layout: default
 .book-title { font-size: 0.95rem; line-height: 1.2; font-weight: 600; margin: 0 0 6px 0; color: inherit; }
 .book-author { font-size: 0.85rem; opacity: 0.85; margin: 0 0 8px 0; }
 .book-blurb { font-size: 0.82rem; opacity: 0.8; margin: 0; }
+.book-ratings { margin-top: 8px; }
+.rating-row { display: flex; gap: 8px; align-items: baseline; margin: 2px 0; }
+.rating-label { font-size: 0.78rem; opacity: 0.75; min-width: 88px; }
+.rating-stars { font-size: 0.85rem; letter-spacing: 1px; white-space: nowrap; }
+.rating-stars .empty { opacity: 0.25; }
+
 </style>
 
 {% assign books = site.data.bookshelf %}
@@ -55,6 +61,28 @@ layout: default
           <p class="book-title">{{ book.title }}</p>
           <p class="book-author">{{ book.author }}</p>
           {% if book.blurb %}<p class="book-blurb">{{ book.blurb }}</p>{% endif %}
+          {% assign dims = "Technical,Canonical,Exercises" | split: "," %}
+
+          {% if book.ratings %}
+            <div class="book-ratings">
+              {% for dim in dims %}
+                {% assign val = book.ratings[dim] | default: 0 | plus: 0 %}
+                <div class="rating-row">
+                  <span class="rating-label">{{ dim }}:</span>
+                  <span class="rating-stars" aria-label="{{ dim }} rating {{ val }} out of 5">
+                    {% for i in (1..5) %}
+                      {% if i <= val %}
+                        ★
+                      {% else %}
+                        <span class="empty">☆</span>
+                      {% endif %}
+                    {% endfor %}
+                  </span>
+                </div>
+              {% endfor %}
+            </div>
+          {% endif %}
+
         </div>
       </a>
     {% endfor %}
@@ -73,7 +101,30 @@ layout: default
         <div class="book-meta">
           <p class="book-title">{{ book.title }}</p>
           <p class="book-author">{{ book.author }}</p>
+          
           {% if book.blurb %}<p class="book-blurb">{{ book.blurb }}</p>{% endif %}
+          {% assign dims = "Technical,Canonical,Exercises" | split: "," %}
+          
+          {% if book.ratings %}
+            <div class="book-ratings">
+              {% for dim in dims %}
+                {% assign val = book.ratings[dim] | default: 0 | plus: 0 %}
+                <div class="rating-row">
+                  <span class="rating-label">{{ dim }}:</span>
+                  <span class="rating-stars" aria-label="{{ dim }} rating {{ val }} out of 5">
+                    {% for i in (1..5) %}
+                      {% if i <= val %}
+                        ★
+                      {% else %}
+                        <span class="empty">☆</span>
+                      {% endif %}
+                    {% endfor %}
+                  </span>
+                </div>
+              {% endfor %}
+            </div>
+          {% endif %}
+
         </div>
       </a>
     {% endfor %}
