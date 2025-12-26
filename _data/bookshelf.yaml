@@ -28,9 +28,20 @@
   url: "/books/physical-chemistry-a-molecular-approach/"
   blurb: "Chemical Physics Intro"
   ratings:
-    Technical: 4
+    Technical: 1
     Canonical: 5
     Exercises: 3
+    
+- title: "Introduction to Modern Statistical Mechanics"
+  author: "David Chandler"
+  category: education
+  cover: "1987_Chandler_IntroductionToModernStatisticalMechanics.jpg"
+  url: "/books/chandler-introduction-to-modern-statistical-mechanics/"
+  blurb: "This is a short primer to more detailed treatments. It has the classic pipeline of thermodynamics followed by non-interacting then interacting system. Nice intro to mean field"
+  ratings:
+    Technical: 1
+    Canonical: 5
+    Exercises: 2
 
 - title: "Statistical Mechanics"
   author: "Donald A. McQuarrie"
@@ -191,9 +202,9 @@
   url: "/books/introduction-to-algorithms/"
   blurb: "The classic algorithms text combining rigor and breadth, with self-contained chapters and pseudocode covering a wide range of algorithm design and analysis."
   ratings:
-    Technical: 4
+    Technical: 5
     Canonical: 5
-    Exercises: 2
+    Exercises: 5
 
 
 - title: "An Introduction to Medicinal Chemistry"
@@ -216,7 +227,7 @@
   ratings:
     Technical: 4
     Canonical: 4
-    Exercises: 2
+    Exercises: 1
 
 - title: "Statistical Mechanics: Theory and Molecular Simulation"
   author: "Mark E. Tuckerman"
@@ -233,8 +244,8 @@
 - title: "How to solve it?"
   author: "G Polya"
   category: nonfiction
-  cover: "feynman-surely.jpg"
-  url: "/books/surely-youre-joking/"
+  cover: "1990_Polya_HowToSolveIt.jpg"
+  url: "/books/polya-how/"
   blurb: "Dialogues, Mentorship, Thinking"
   ratings:
     Technical: 1
