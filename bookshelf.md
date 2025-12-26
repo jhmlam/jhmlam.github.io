@@ -49,7 +49,7 @@ layout: default
 {% assign nonfiction = books | where: "category", "nonfiction" %}
 
 <div class="bookshelf-section">
-  <h2>Education</h2>
+  <h2>Technical</h2>
   <div class="bookshelf-grid">
     {% for book in education %}
       <a class="book-card" href="{{ book.url | relative_url }}">
