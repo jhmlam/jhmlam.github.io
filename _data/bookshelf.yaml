@@ -35,9 +35,9 @@
 - title: "Introduction to Modern Statistical Mechanics"
   author: "David Chandler"
   category: education
-  cover: "1987_Chandler_IntroductionToModernStatisticalMechanics.jpg"
+  cover: "2000_Chandler_IntroductionToModernStatisticalMechanics.jpg"
   url: "/books/chandler-introduction-to-modern-statistical-mechanics/"
-  blurb: "This is a short primer to more detailed treatments. It has the classic pipeline of thermodynamics followed by non-interacting then interacting system. Nice intro to mean field"
+  blurb: "This is a short primer after initial exposure to thermodynamics. It has the classic backbone of thermodynamics followed by treatment of partition functions for non-interacting then interacting system."
   ratings:
     Technical: 1
     Canonical: 5
