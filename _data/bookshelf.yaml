@@ -86,6 +86,16 @@
     Technical: 2
     Canonical: 5
     Exercises: 1
+- title: "Introduction to Linear Algebra"
+  author: "Gilbert Strang"
+  category: education
+  cover: "2023_Strang_IntroductionToLinearAlgebra.jpg"
+  url: "/books/strang-introduction-to-linear-algebra/"
+  blurb: "Starts early with independent columns, rank, and the column space; then moves through linear equations, fundamental subspaces, least squares, eigenvalues, and singular values—framed via matrix factorizations."
+  ratings:
+    Technical: 4
+    Canonical: 5
+    Exercises: 3
 
 - title: "Iterative Methods for Sparse Linear Systems"
   author: "Yousef Saad"
