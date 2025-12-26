@@ -13,7 +13,7 @@
 - title: "Computer Simulation of Liquids"
   author: "Michael P. Allen; Dominic J. Tildesley"
   category: education
-  cover: "2017_Tildesley_ComputerSimulationofLiquids.jpg"
+  cover: "1989_Tildsley_ComputerSimulationOfLiquids.jpg"
   url: "/books/computer-simulation-of-liquids/"
   blurb: "Fortran/Particle Simulation"
   ratings:
@@ -68,7 +68,7 @@
 - title: "Statistical Inference"
   author: "George Casella; Roger L. Berger"
   category: education
-  cover: "2002_Casella_StatisticalInference.jpg"
+  cover: "2000_Casella_StatisticalInference.jpg"
   url: "/books/casella-berger-statistical-inference/"
   blurb: "Random Variables, Estiamtes, Bayes, "
   ratings:
@@ -79,7 +79,7 @@
 - title: "Deep Learning"
   author: "Ian Goodfellow; Yoshua Bengio; Aaron Courville"
   category: education
-  cover: "2016_Goodfellow_DeepLearning.jpg"
+  cover: "2010_Goodfellow_DeepLearning.jpg"
   url: "/books/goodfellow-deep-learning/"
   blurb: "Comprehensive deep learning text: math background, methods, applications, and research topics."
   ratings:
