@@ -24,7 +24,7 @@
 - title: "Physical Chemistry: A Molecular Approach"
   author: "Donald A. McQuarrie; John D. Simon"
   category: education
-  cover: "1997_McQuarrie_PhysicalChemistryAMolecularApproach.jpg"
+  cover: "1990_Mcquarrie_PhysicalChemistry.jpg"
   url: "/books/physical-chemistry-a-molecular-approach/"
   blurb: "Chemical Physics Intro"
   ratings:
@@ -35,7 +35,7 @@
 - title: "Statistical Mechanics"
   author: "Donald A. McQuarrie"
   category: education
-  cover: "2000_McQuarrie_StatisticalMechanics.jpg"
+  cover: "2000_Mcquarrie_StatisticalMechanics.jpg"
   url: "/books/mcquarrie-statistical-mechanics/"
   blurb: "Statistical Mechanics Intro"
   ratings:
@@ -46,7 +46,7 @@
 - title: "Quantum Chemistry"
   author: "Donald A. McQuarrie"
   category: education
-  cover: "2008_McQuarrie_QuantumChemistry.jpg"
+  cover: "2000_Mcquarrie_QuantumChemistry.jpg"
   url: "/books/mcquarrie-quantum-chemistry/"
   blurb: "Quantum Chemistry Intro"
   ratings:
